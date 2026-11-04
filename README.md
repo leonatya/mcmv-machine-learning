@@ -23,3 +23,27 @@ vlr_financiamento
 - João Felipe
 - Junior Fabbi
 - Leonardo Rodrigues
+
+- ## Tecnologias Utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- XGBoost
+- Matplotlib
+- Seaborn
+
+## Estrutura do Projeto
+
+├── notebooks/
+│   └── MCMV.ipynb
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── reports/
+│
+├── README.md
+└── .gitignore
